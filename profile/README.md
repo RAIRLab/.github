@@ -7,7 +7,7 @@ Research and development in the RAIR Lab ranges across a number of applied proje
 [Selmer Bringsjord](https://homepages.rpi.edu/~brings/)
 
 ## Current Members
-(As of Jan 2023)
+(As of Jan 2023)  
 \* = Computer Science
 † = Cognitive Science
 

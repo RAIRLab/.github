@@ -8,7 +8,7 @@ Research and development in the RAIR Lab ranges across a number of applied proje
 
 ## Current Members
 (As of Jan 2023)
-* = Computer Science
+\* = Computer Science
 † = Cognitive Science
 
 #### Doctoral Students

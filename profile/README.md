@@ -28,12 +28,12 @@ Research and development in the RAIR Lab ranges across a number of applied proje
 * [Dan Arista](https://www.linkedin.com/in/danarista/)† '17 
 * [Joseph Johnson](https://www.linkedin.com/in/jjohnson346/)* '16 (Now Associate Prof. at UCONN)
 * [John Licato](https://www.linkedin.com/in/john-licato-04527325/)* '15 (Now Assistant Prof. at USF)
-* Jinrong Li†  '14
+* Jinrong Li† '14 (Now Assistant Provost for Institutional Research and Data for The SUNY System)
 * [Joshua Taylor](https://www.linkedin.com/in/joshua-taylor-77472b9/)* '14 (Now Chief Scientist at Siege Technologies)
 * [J.R. Scally](https://www.linkedin.com/in/jrscally/)† '14
 * [Naveen Sundar Govindarajulu](https://www.linkedin.com/in/naveensundarg/)* '13 (Now head of AI at salesDNA)
 * [Micah Clark](https://www.linkedin.com/in/micahhclark/)† '10 (Now Research Prof. at PennState)
 * Deepa Mukherjee† '09
 * [Andrew Shilliday](https://www.linkedin.com/in/andrew-shilliday-70726912/)* '09 (Now SWE at Lockheed Martin)
-* Bettina Schimanski* '06
+* Bettina Schimanski* '06 (Now a "Serious Nuclear Researcher" at ?)
 * [Paul Bello](https://www.linkedin.com/in/paul-bello-31a3523/)† '05 (Head of Interactive Systems Section at The Navel Research Laboratory)

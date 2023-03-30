@@ -12,8 +12,7 @@ Research and development in the RAIR Lab ranges across a number of applied proje
 † = Cognitive Science
 
 #### Doctoral Students
-* John Angel*
-* [Mike Giancola](https://www.linkedin.com/in/mjgiancola/)* (4th year)
+
 * John Slowik* (3rd year)
 * [James Oswald](https://jamesoswald.dev/)* (2nd year)
 * [Brandon Rozek](https://brandonrozek.com/)* (2nd year)
@@ -21,6 +20,8 @@ Research and development in the RAIR Lab ranges across a number of applied proje
 ## Alumni
 
 #### Doctoral Students
+* John Angel* '23
+* [Mike Giancola](https://www.linkedin.com/in/mjgiancola/)* '23
 * [Shreya Bannerjee](https://www.linkedin.com/in/shreyabbanerjee/)* '22 (Now Assistant Prof. at UNO)
 * [Matthew Peveler](https://www.linkedin.com/in/mpeveler/)* '20 (Now SWE at PopSQL)
 * [Rikhiya Ghosh](https://www.linkedin.com/in/rikhiyaghosh/)* '20 (Now Senior Data Scientist at Siemens Healthineers)

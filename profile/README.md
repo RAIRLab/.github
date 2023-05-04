@@ -26,12 +26,12 @@ Research and development in the RAIR Lab ranges across a number of applied proje
 * [Matthew Peveler](https://www.linkedin.com/in/mpeveler/)* '20 (Now SWE at PopSQL)
 * [Rikhiya Ghosh](https://www.linkedin.com/in/rikhiyaghosh/)* '20 (Now Senior Data Scientist at Siemens Healthineers)
 * [Atriya Sen](https://www.linkedin.com/in/atriyasen/)* '17 (Now Assistant Prof. at UNO)
-* [Dan Arista](https://www.linkedin.com/in/danarista/)† '17 
+* [Dan Arista](https://www.linkedin.com/in/danarista/)† '17 (Now a founder of a stealth startup)
 * [Joseph Johnson](https://www.linkedin.com/in/jjohnson346/)* '16 (Now Associate Prof. at UCONN)
 * [John Licato](https://www.linkedin.com/in/john-licato-04527325/)* '15 (Now Assistant Prof. at USF)
 * Jinrong Li† '14 (Now Assistant Provost for Institutional Research and Data for The SUNY System)
 * [Joshua Taylor](https://www.linkedin.com/in/joshua-taylor-77472b9/)* '14 (Now Chief Scientist at Siege Technologies)
-* [J.R. Scally](https://www.linkedin.com/in/jrscally/)† '14
+* [J.R. Scally](https://www.linkedin.com/in/jrscally/)† '14 (Now developer at Dry.io)
 * [Naveen Sundar Govindarajulu](https://www.linkedin.com/in/naveensundarg/)* '13 (Now head of AI at salesDNA)
 * [Micah Clark](https://www.linkedin.com/in/micahhclark/)† '10 (Now Research Prof. at PennState)
 * Deepa Mukherjee† '09

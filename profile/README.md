@@ -1,6 +1,6 @@
 # The Rensselaer Artificial Intelligence and Reasoning (RAIR) Laboratory
 
-Research and development in the RAIR Lab ranges across a number of applied projects, as well as across many of the fundamental questions AI raises (e.g., Are we machines ourselves? If so, what sort of machines?). Everything is to a high degree unified by the fact that the formalisms, tools, techniques, systems, etc. that underlie the lab's R&D are invariably based on reasoning.
+Research and development in the RAIR Lab ranges across a number of applied projects, as well as across many of the fundamental questions AI raises. Everything is to a high degree unified by the fact that the formalisms, tools, techniques, systems, etc. that underlie the lab's R&D are invariably based on reasoning.
 
 ## Faculty 
 
@@ -13,9 +13,9 @@ Research and development in the RAIR Lab ranges across a number of applied proje
 
 #### Doctoral Students
 
-* John Slowik* (3rd year)
-* [James Oswald](https://jamesoswald.dev/)* (2nd year)
-* [Brandon Rozek](https://brandonrozek.com/)* (2nd year)
+* John Slowik* (Joined 2020)
+* [James Oswald](https://jamesoswald.dev/)* (Joined 2021)
+* [Brandon Rozek](https://brandonrozek.com/)* (Joined 2021)
 
 ## Alumni
 
@@ -36,5 +36,5 @@ Research and development in the RAIR Lab ranges across a number of applied proje
 * [Micah Clark](https://www.linkedin.com/in/micahhclark/)† '10 (Now Research Prof. at PennState)
 * Deepa Mukherjee† '09
 * [Andrew Shilliday](https://www.linkedin.com/in/andrew-shilliday-70726912/)* '09 (Now SWE at Lockheed Martin)
-* Bettina Schimanski* '06 (Now a "Serious Nuclear Researcher" at ?)
+* Bettina Schimanski* '06 (Now a Nuclear Researcher)
 * [Paul Bello](https://www.linkedin.com/in/paul-bello-31a3523/)† '05 (Head of Interactive Systems Section at The Navel Research Laboratory)

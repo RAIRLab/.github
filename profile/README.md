@@ -32,7 +32,7 @@ Research and development in the RAIR Lab ranges across a number of applied proje
 * Jinrong Li† '14 (Now Assistant Provost for Institutional Research and Data for The SUNY System)
 * [Joshua Taylor](https://www.linkedin.com/in/joshua-taylor-77472b9/)* '14 (Now Chief Scientist at Siege Technologies)
 * [J.R. Scally](https://www.linkedin.com/in/jrscally/)† '14 (Now developer at Dry.io)
-* [Naveen Sundar Govindarajulu](https://www.linkedin.com/in/naveensundarg/)* '13 (Now head of AI at salesDNA)
+* [Naveen Sundar Govindarajulu](https://www.linkedin.com/in/naveensundarg/)* '13 (Now Machine Learning Engineer at Meta(Facebook))
 * [Micah Clark](https://www.linkedin.com/in/micahhclark/)† '10 (Now Research Prof. at PennState)
 * Deepa Mukherjee† '09
 * [Andrew Shilliday](https://www.linkedin.com/in/andrew-shilliday-70726912/)* '09 (Now SWE at Lockheed Martin)

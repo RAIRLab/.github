@@ -20,7 +20,7 @@ Research and development in the RAIR Lab ranges across a number of applied proje
 ## Alumni
 
 #### Doctoral Students
-* John Angel* '23
+* [John Angel](https://www.linkedin.com/in/john-angel-2b248557/)* '23
 * [Mike Giancola](https://www.linkedin.com/in/mjgiancola/)* '23 (Now AI Scientist at [Charles River Analytics](https://cra.com/))
 * [Shreya Bannerjee](https://www.linkedin.com/in/shreyabbanerjee/)* '22 (Now Assistant Prof. at [The University of New Orleans](https://www.uno.edu/))
 * [Matthew Peveler](https://www.linkedin.com/in/mpeveler/)* '20 (Now Software Engineer at [PopSQL](https://popsql.com/))

@@ -4,7 +4,8 @@ Research and development in the RAIR Lab ranges across a number of applied proje
 
 ## Faculty 
 
-[Selmer Bringsjord](https://homepages.rpi.edu/~brings/)
+[Selmer Bringsjord](https://homepages.rpi.edu/~brings/) - Director
+[Bram Van Heuvlen](https://homepages.rpi.edu/~heuveb/) - Assistant Director
 
 ## Current Members
 (As of August 2023)  

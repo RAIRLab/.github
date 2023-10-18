@@ -38,4 +38,4 @@ Research and development in the RAIR Lab ranges across a number of applied proje
 * Deepa Mukherjee† '09
 * [Andrew Shilliday](https://www.linkedin.com/in/andrew-shilliday-70726912/)* '09 (Now SWE at [Lockheed Martin](https://www.lockheedmartin.com/en-us/index.html))
 * Bettina Schimanski* '06 (Now a Nuclear Researcher)
-* [Paul Bello](https://www.linkedin.com/in/paul-bello-31a3523/)† '05 (Head of the Interactive Systems Section at [The Navel Research Laboratory](https://www.nrl.navy.mil/))
+* [Paul Bello](https://www.linkedin.com/in/paul-bello-31a3523/)† '05 (Head of the Interactive Systems Section at [The United States Navel Research Laboratory](https://www.nrl.navy.mil/))

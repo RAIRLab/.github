@@ -8,7 +8,7 @@ Research and development in the RAIR Lab ranges across a number of applied proje
 [Bram Van Heuvlen](https://homepages.rpi.edu/~heuveb/) - Assistant Director
 
 ## Current Members
-(As of August 2023)  
+(As of January 2024)  
 \* = Computer Science
 † = Cognitive Science
 
@@ -17,3 +17,4 @@ Research and development in the RAIR Lab ranges across a number of applied proje
 * John Slowik* (Joined 2020)
 * [James Oswald](https://jamesoswald.dev/)* (Joined 2021)
 * [Brandon Rozek](https://brandonrozek.com/)* (Joined 2021)
+* Gwendolyn Morgan† (Joined 2024)

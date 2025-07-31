@@ -4,17 +4,15 @@ Research and development in the RAIR Lab ranges across a number of applied proje
 
 ## Faculty 
 
-[Selmer Bringsjord](https://homepages.rpi.edu/~brings/) - Director  
-[Bram Van Heuvlen](https://homepages.rpi.edu/~heuveb/) - Assistant Director
+[Selmer Bringsjord](https://kryten.mm.rpi.edu/selmerbringsjord.html) - Director 
 
 ## Current Members
-(As of January 2024)  
+(As of July 2025)  
 \* = Computer Science
 † = Cognitive Science
 
 #### Doctoral Students
 
-* John Slowik* (Joined 2020)
 * [James Oswald](https://jamesoswald.dev/)* (Joined 2021)
 * [Brandon Rozek](https://brandonrozek.com/)* (Joined 2021)
-* Gwendolyn Morgan† (Joined 2024)
+* [Gwendolyn Morgan](https://scholar.google.com/citations?user=MiUlYb4AAAAJ&hl=en)† (Joined 2024)
